@@ -61,7 +61,7 @@ public class LoginActivity extends Activity  implements View.OnClickListener {
     }
 
 
-    private void loginWithFacebook(){
+    private void loginWithGmailAndFacebook(){
 
     }
 
